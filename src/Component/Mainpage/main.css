@@ -1,0 +1,295 @@
+@media (max-width: 920px){
+    .main-container {
+        height: 100vh;
+        width: 100vw;
+        padding-left: 5rem;
+        background-image: url("https://images.unsplash.com/photo-1482855549413-2a6c9b1955a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size:cover;
+      }
+
+      .logo {
+        margin-bottom: 3rem;
+        height: 5rem;
+        width: 8rem;
+      }
+
+      .orange-text > h1 {
+        font-family: "Bungee", cursive;
+        font-size: 60px;
+        font-style: italic;
+        font-weight: 600;
+        background: linear-gradient(to right, #ff6b08, #ff6b08, #e2e603, #faac03);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+      }
+
+      .white-text > h1 {
+        font-family: "Bungee", cursive;
+        font-size: 45px;
+        color: white;
+      }
+    
+      .yellow-text > h5 {
+        font-family: "Oswald", sans-serif;
+        font-size: 35px;
+        color: #c6c920;
+      }
+
+      .playstore-button > img {
+        margin-top: 1.5rem;
+        width: 15rem;
+      }
+    
+
+      .main-third-container {
+        margin-top: 2rem;
+        font-family: "Bungee", cursive;
+        text-align: center;
+        font-size: 40px;
+        background: linear-gradient(to right, #ff6b08, #ff6b08, #e2e603, #faac03);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+      }
+    
+      .games-container {
+        color: white;
+      }
+      .games {
+        color: white;
+      }
+      .game {
+        margin-top: 2.5rem;
+      }
+      .game > h1 {
+        font-family: "Bungee", cursive;
+        font-size: 40px;
+        font-style: italic;
+        font-weight: 600;
+        background: linear-gradient(to right, #ff6b08, #ff6b08, #e2e603, #faac03);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+      }
+      .game > p {
+        font-size: 13px;
+        padding-top: 0.5 rem;
+      }
+      .slide-one {
+        margin: 2rem;
+        width: 200px;
+        height: 150px;
+        transform: skew(-10deg);
+        background-color: black;
+      }
+      .slides {
+        background: #32557f;
+        margin: 0 1rem;
+        width: 100%;
+        height: 100%;
+      }
+    
+}
+
+
+@media (max-width: 720px) {
+
+    .nav{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        background-color: transparent;
+        color: rgb(255, 255, 255);
+    }
+    
+    .nav-text{
+        margin-top: 1rem;
+        margin-right: 2rem;
+        width: 40%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+  .main-container {
+    height: 60vh;
+    width: 100vw;
+    padding-left: 2rem;
+    background-image: url("https://images.unsplash.com/photo-1482855549413-2a6c9b1955a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .logo {
+    margin-bottom: 3rem;
+    height: 5rem;
+    width: 8rem;
+  }
+  .orange-text > h1 {
+    font-family: "Bungee", cursive;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 600;
+    background: linear-gradient(to right, #ff6b08, #ff6b08, #e2e603, #faac03);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+  }
+
+  .white-text > h1 {
+    font-family: "Bungee", cursive;
+    font-size: 30px;
+    color: white;
+  }
+
+  .yellow-text > h5 {
+    font-family: "Oswald", sans-serif;
+    font-size: 23px;
+    color: #c6c920;
+  }
+
+  .playstore-button > img {
+    margin-top: 1.5rem;
+    width: 10rem;
+  }
+
+  .main-third-container {
+    margin-top: 2rem;
+    font-family: "Bungee", cursive;
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(to right, #ff6b08, #ff6b08, #e2e603, #faac03);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+  }
+
+  .games-container {
+    color: white;
+  }
+  .games {
+    color: white;
+  }
+  .game {
+    margin-top: 2.5rem;
+  }
+  .game > h1 {
+    font-family: "Bungee", cursive;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 600;
+    background: linear-gradient(to right, #ff6b08, #ff6b08, #e2e603, #faac03);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+  }
+  .game > p {
+    font-size: 13px;
+    padding-top: 0.5 rem;
+  }
+  .slide-one {
+    margin: 2rem;
+    width: 200px;
+    height: 150px;
+    transform: skew(-10deg);
+    background-color: black;
+  }
+  .slides {
+    background: #32557f;
+    margin: 0 1rem;
+    width: 100%;
+    height: 100%;
+  }
+
+  .second-main-container{
+      height: 100rem;
+      width: 100vw;
+      background-color: rgb(20, 20, 20);
+  }
+
+  /* .triangle-right {
+	width: 0;
+	height: 100px;
+	border-top: 25px solid transparent;
+	border-left: 20rem solid #555;
+	border-bottom: 25px solid transparent;
+    position: absolute;
+} */
+
+  .trapezoid1>div{
+      color: white;
+  }
+
+  .trapezoid1{
+      display: flex;
+      position: relative;
+  }
+
+  .join-now{
+    padding: 5rem 1rem 4rem 2rem;
+  }
+
+  .join-now>h1{
+      font-size: 3rem;
+      font-family: "Oswald", sans-serif;
+  }
+
+  .weekly-main{
+      margin-left: 2rem;
+      display: flex;
+      flex-direction: column;
+  }
+
+  .match-details{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+
+  .map{
+      margin-right: 1.5rem;
+  }
+
+  .perspective{
+    margin-right: 1.5rem;
+
+  }
+
+  .trapezoid2>div{
+    color: white;
+}
+  .trapezoid2-join-now{
+      padding: 5rem 0 0 3rem ;
+    font-size: 3rem;
+    font-family: "Oswald", sans-serif;
+  }
+
+  .trapezoid2{
+    display: flex;
+}
+
+.trapezoid2-weekly-main{
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: column;
+}
+.trapezoid2-weekly-tournament{
+    text-align: right;
+}
+ /* .trapezoid1 {
+     height: 30rem;
+      background-image: url('https://newsmeter.in/h-upload/2021/11/10/308080-disha-patani.webp');
+      clip-path: polygon(0 1%, 100% 0, 100% 26%, 0 43%); 
+  }
+
+  .trapezoid2 {
+      
+      height: 20rem;
+    background-image: url('https://newsmeter.in/h-upload/2021/11/10/308080-disha-patani.webp');
+    clip-path: polygon(0 18%, 100% 5%, 100% 44%, 0 33%);
+    z-index: -10;
+} */
+
+
+     /* .trapezoid3 {
+        background-image: url('https://newsmeter.in/h-upload/2021/11/10/308080-disha-patani.webp');
+        clip-path: polygon(0 54%, 100% 74%, 100% 100%, 0 100%);
+       }  */
+}
